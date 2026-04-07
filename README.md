@@ -1,6 +1,9 @@
 # 🗳️ Secure UDP Live Polling System
 
 A **real-time distributed voting system** built using **UDP for fast vote transmission** and **TLS for secure result retrieval**, with built-in **reliability mechanisms, duplicate detection, and packet loss analysis**.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
